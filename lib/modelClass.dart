@@ -37,7 +37,7 @@ class VideoData{
 
 }
 
-List audioList = [
+List<AudioData> audioList = [
   AudioData(songName: "Reflection", singer: "Made by Apple", songImage: "Assets/Images/01.jpg", song: "Assets/Audio/02.mp3"),
   AudioData(songName: "Perfect", singer: "ED Sheeran", songImage: "Assets/Images/02.jpeg", song: "Assets/Audio/perfect.mp3"),
   AudioData(songName: "King Shit", singer: "Shubh", songImage: "Assets/Images/04.jpg", song: "Assets/Audio/kingShit.mp3"),
